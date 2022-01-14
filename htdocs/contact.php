@@ -13,10 +13,10 @@
 		</div>
 		<div id="mySidebar" class="sidebar">
  		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
- 		<a href="main.html">Home</a>
-  		<a href="about.html">About</a>
-  		<a href="contact.html" style="text-shadow: 2px 2px white">Contact</a>
-  		<a href="stats.html">Stats</a>
+ 		<a href="main.php">Home</a>
+  		<a href="about.php">About</a>
+  		<a href="contact.php" style="text-shadow: 2px 2px white">Contact</a>
+  		<a href="stats.php">Stats</a>
 	</div>
 	<h1>Subatomicons</h1>
 	</header>

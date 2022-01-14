@@ -21,6 +21,7 @@ h1
 	margin-right: 20%;
 	border-radius: 10px;
 	margin-top: -75px;
+  box-shadow: 0 0 15px red;
 
 }
 
@@ -33,11 +34,13 @@ main
 	margin-right: 20%;
 	margin-bottom: 0px;
 	height: 100%;
+  box-shadow: 0 0 15px red;
 }
 
 iframe
 {
 	border: 5px solid red;
+  box-shadow: 0 0 15px red;
 	border-radius: 10px;
 }
 
@@ -77,6 +80,7 @@ h2
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
   border: none;
+  box-shadow: 0 0 15px red;
 }
 
 /* The sidebar links */
@@ -113,6 +117,7 @@ h2
   background-image: url("../images/space.jpg");
   display: ;
   border-radius: 10px;
+  box-shadow: 0 0 15px red;
 
 
 }
